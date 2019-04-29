@@ -1,0 +1,40 @@
+body {
+	background-color: #3F2300;
+
+}
+.navbar-inverse {
+    background-color: #846C5B;
+    border-color: #F2F4F3;
+}
+.navbar-inverse .navbar-brand{
+    color: #846C5B;
+}
+ul.nav li{
+    font-family: 'Cardo', serif;
+        color:#F6F1D1;
+    }
+h1{
+	font-family: 'Alegreya', serif;
+}
+.jumbotron{
+	background-color: #3F2300;
+}
+
+.navbar-brand {
+	color: #F6F1D1!important;
+}
+.navbar-nav a {
+	color: #F6F1D1!important;
+}
+p{
+	color: #A9927D ;
+	font-size:20px;
+}
+li{
+	color: #A9927D ;
+	font-size:20px;
+}
+h2{
+	font-family: 'Alegreya', serif;
+	color: #846C5B;
+}
